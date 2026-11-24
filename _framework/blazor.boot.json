@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MapleExpTracker.Browser",
   "resources": {
-    "hash": "sha256-VcdxFI+NJl1drcy5PHs+72epcdZwEPVPN2gbXsg8CaA=",
+    "hash": "sha256-uJh+yTxhTrA4PoYim1ADiY+1IjNiZ6d17i09KP+0XEw=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-JTswf4CBcNmmrTGm6DppxYNII8GVEmbA3iXD3bU1fcA="
     },
@@ -47,7 +47,7 @@
       "System.Text.Json.wasm": "sha256-64vKjdy70KifiAC4GySQXOddVtlSH4tOOVU2CaNwYl0=",
       "System.Text.RegularExpressions.wasm": "sha256-Ip4DNeoitRlCBTkRTI5pT+fjQ/hEJzfiF+vk+bnJPgc=",
       "System.Private.CoreLib.wasm": "sha256-X41y9Y21CgTrscD3pmKPEDhcbCSL/c8xiGJfLC2MNok=",
-      "MapleExpTracker.Browser.wasm": "sha256-PojP1hGBFqgABLYJb6BD7GFlYk/5X3SDnK5Yu2tmIIk="
+      "MapleExpTracker.Browser.wasm": "sha256-aNPaUAw35hyf3HZfqaoZbTuYpC5a6LJeOPySZChMj+8="
     }
   },
   "cacheBootResources": true,
