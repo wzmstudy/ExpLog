@@ -29298,7 +29298,7 @@ async function startRecognition() {
       lang: "ch",
       ocrVersion: "PP-OCRv5",
       worker: true,
-      ortOptions: { backend: "wasm", numThreads: 1, simd: true }
+      ortOptions: { backend: "wasm", numThreads: 1, simd: true, wasmPaths: new URL("js/ort/", document.baseURI).href }
     });
   }
   if (!timer) {
