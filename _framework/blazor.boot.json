@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MapleExpTracker.Browser",
   "resources": {
-    "hash": "sha256-uJh+yTxhTrA4PoYim1ADiY+1IjNiZ6d17i09KP+0XEw=",
+    "hash": "sha256-e0xZkYDGToKAEa25IL5Y/oJZHBj/0jH/yrnzcMklLJk=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-JTswf4CBcNmmrTGm6DppxYNII8GVEmbA3iXD3bU1fcA="
     },
@@ -30,7 +30,7 @@
       "Microsoft.Extensions.Logging.Abstractions.wasm": "sha256-zzRcMlPQNM26LZU9SaBhrTTpnhjGsVxhIjhTJnwzvt0=",
       "Microsoft.Extensions.Options.wasm": "sha256-mngxZ7DtB5tYzmxZdVWZapJTSJ/yGClqQAcqOkLk3Lk=",
       "Microsoft.Extensions.Primitives.wasm": "sha256-Bi1hyBMWneH/ByWbqT/pNe0B7I/NQFklzD2g3Whdqlk=",
-      "Microsoft.JSInterop.wasm": "sha256-0aTCtMB/jO7tbIfYfYByUeg/P6x7YneCRLi0KTKGcEo=",
+      "Microsoft.JSInterop.wasm": "sha256-S0ZQdrdzoiTskStyAHO7KuLG/NkOqie8zkWzM9s22JE=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-aXsp4IUQr+q1XzsFHFtxSMNo3Y1fMyJ85Gs+WGXjSlg=",
       "System.Collections.Concurrent.wasm": "sha256-NIi0aSCxrHBTASO4hYj6gJrK1jn1yeEPJYcWkKJMezc=",
       "System.Collections.wasm": "sha256-WMMc3iLPI/h43eF717WCzwPGU53JTnlyLVtATwZwV5U=",
@@ -47,7 +47,7 @@
       "System.Text.Json.wasm": "sha256-64vKjdy70KifiAC4GySQXOddVtlSH4tOOVU2CaNwYl0=",
       "System.Text.RegularExpressions.wasm": "sha256-Ip4DNeoitRlCBTkRTI5pT+fjQ/hEJzfiF+vk+bnJPgc=",
       "System.Private.CoreLib.wasm": "sha256-X41y9Y21CgTrscD3pmKPEDhcbCSL/c8xiGJfLC2MNok=",
-      "MapleExpTracker.Browser.wasm": "sha256-aNPaUAw35hyf3HZfqaoZbTuYpC5a6LJeOPySZChMj+8="
+      "MapleExpTracker.Browser.wasm": "sha256-qQLaiv21pRlw9BqS5aWcrfRYziitt5PZem1/rkUL29Q="
     }
   },
   "cacheBootResources": true,

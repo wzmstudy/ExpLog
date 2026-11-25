@@ -37,9 +37,9 @@ var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__ge
   mod
 ));
 
-// src/MapleExpTracker.Browser/client/node_modules/clipper-lib/clipper.js
+// node_modules/clipper-lib/clipper.js
 var require_clipper = __commonJS({
-  "src/MapleExpTracker.Browser/client/node_modules/clipper-lib/clipper.js"(exports, module) {
+  "node_modules/clipper-lib/clipper.js"(exports, module) {
     (function() {
       "use strict";
       var ClipperLib2 = {};
@@ -5435,9 +5435,9 @@ var require_clipper = __commonJS({
   }
 });
 
-// src/MapleExpTracker.Browser/client/node_modules/@techstark/opencv-js/dist/opencv.js
+// node_modules/@techstark/opencv-js/dist/opencv.js
 var require_opencv = __commonJS({
-  "src/MapleExpTracker.Browser/client/node_modules/@techstark/opencv-js/dist/opencv.js"(exports, module) {
+  "node_modules/@techstark/opencv-js/dist/opencv.js"(exports, module) {
     (function(root, factory) {
       if (typeof define === "function" && define.amd) {
         define(function() {
@@ -13220,7 +13220,7 @@ var require_opencv = __commonJS({
   }
 });
 
-// src/MapleExpTracker.Browser/client/node_modules/onnxruntime-web/dist/ort.bundle.min.mjs
+// node_modules/onnxruntime-web/dist/ort.bundle.min.mjs
 var ort_bundle_min_exports = {};
 __export(ort_bundle_min_exports, {
   InferenceSession: () => Yf,
@@ -14891,7 +14891,7 @@ async function As(t = {}) {
 }
 var eo, Kf, jf, Zf, to, V, Ht, Qf, ar, sr, vt, Ha, Dt, Fa, qa, Ka, Pr, ja, Za, Qa, Ya, Be, ro, ve, Xa, Or, Ja, Re, Me, $t, xt, Dr, Ft, no, es, ts, rs, oo, ns, os, is, as, ss, us, Bt, ur, ds, ls, cs, ps, ms, fs, Ue, Br, je, io, zr, hs, Yf, gs, Xf, ys, bs, _s, ws, vs, ao, Ve, Mr, Ts, xs, Ss, Jf, Is, Cs, eh, th, Es, Os, lo, rh, We, Ds, uo, nh, oh, Bs, ih, ks, zs, Ps, Ms, Rr, co, po, qr, Rs, ah, sh, uh, Ur, pe, St, Ge, lr, me, Kr, Us, Ns, dh, lh, ch, qt, ph, Vs, Ls, Tt, rt, It, Kt, cr, jr, Zr, mo, X, Mt, Qr, mh, fh, Ws, Gs, Yr, hh, ae, nt, fo, ot, k, Rt, Xr, Hs, Fs, te, Jr, ho, Ks, gh, js, yh, qs, bh, Zs, en, tn, go, Qs, Ys, rn, _h, nn, Xs, on, Js, yo, bo, wh, vh, eu, wo, _o, ru, nu, vo, Q, Ie, Ut, xo, $e, Ee, W, _e, So, Nt, Ze, K, an, O, R, ou, sn, $o, iu, oe, $h, au, xh, Sh, Th, Ih, ze, su, uu, pt, Ah, Ch, Eh, kh, Ph, Oh, Dh, Bh, zh, Mh, it, du, lu, cu, pu, mu, fu, hu, gu, yu, bu, _u, at, Rh, dn, To, st, Uh, Nh, Vh, Lh, Wh, Gh, Hh, Fh, qh, Kh, ut, wu, vu, $u, xu, Su, Tu, Iu, Au, Cu, Eu, un, ku, Pu, Ou, Io, Du, jh, Ao, Zh, Qh, Yh, jt, Xh, Bu, ln, Jh, eg, tg, zu, Mu, rg, ng, Ru, Uu, og, we, Nu, Vu, Lu, Wu, Gu, Hu, Fu, qu, Ku, ig, ju, Zu, Qu, Yu, pr, Xu, cn, Ju, ed, td, rd, nd, od, id, ad, sd, ud, dd, ld, cd, pd, md, fd, hd, gd, yd, Co, Eo, bd, _d, wd, ag, sg, vd, pn, ug, dg, xd, Sd, lg, cg, dt, Td, Id, Ad, Cd, Ed, kd, Pd, Od, Dd, Bd, zd, mg, fg, Md, Rd, Ud, Qe, Ye, Xe, mn, At, De, Nd, fn, Vd, Ld, mr, hn, gn, hg, gg, ko, Wd, yg, Po, bg, fr, yn, _g, Gd, Hd, wg, Fd, bn, vg, qd, $g, Kd, jd, Zd, Qd, Yd, Xd, xg, Oo, Sg, Do, Bo, Jd, Tg, Ig, zo, el, tl, rl, Ag, Cg, Eg, nl, ol, kg, il, Pg, al, sl, Og, ul, dl, ll, Dg, Bg, zg, cl, pl, ml, Ct, _n, Mo, hl, Vt, Mg, Rg, Ug, gl, yl, bl, Ng, Vg, fl, Lg, _l, wl, vl, Ro, wn, $l, Wg, Gg, Uo, No, xl, Hg, Sl, Tl, Il, Fg, Al, qg, Kg, Cl, El, jg, kl, Pl, Zg, Qg, Ol, Dl, Bl, Yg, zl, Ml, Rl, Xg, Jg, Ul, Nl, Vl, ey, ty, Ll, Wl, Gl, ry, ny, Hl, Fl, ql, mt, Et, Zt, Qt, oy, iy, ay, sy, uy, dy, ly, cy, Kl, jl, Zl, Le, fy, Yl, Ql, hy, hr, Xl, Vo, gy, yy, by, _y, Lo, Jl, ec, Wo, wy, vn, tc, Go, vy, $y, rc, xy, nc, oc, ic, Sy, Ty, ac, sc, Iy, Ay, uc, dc, Cy, lc, cc, Ey, ky, Py, pc, mc, fc, Oy, Dy, By, zy, My, Ry, Uy, Ny, hc, gc, $n, yc, bc, _c, wc, Vy, Ly, vc, $c, xc, Sc, Tc, Ic, Ac, Cc, Ec, kc, Pc, Oc, Dc, Gy, Hy, Bc, zc, Mc, Fy, qy, Rc, Uc, Ky, jy, Nc, Vc, Lc, Zy, Qy, Yy, Wc, Xy, Jy, eb, tb, rb, nb, ob, ib, Gc, ab, sb, ub, db, lb, Hc, Fc, qc, cb, pb, Kc, jc, mb, xn, fb, Zc, hb, gb, Qc, Yc, Xc, yb, bb, Jc, ep, tp, rp, _b, wb, vb, np, op, $b, xb, ip, ap, sp, up, Sn, dp, lp, Sb, Tb, Ho, Fo, cp, pp, gr, qo, Ib, mp, Ab, Nr, Vr, Lt, Cb, fp, dr, Lr, Wr, Tn, Eb, Yt, gp, yp, hp, Gr, Hr, Fr, so, ft, Fe, yr, An, Cn, In, Ko, jo, Xt, Jt, Pb, bp, _p, wp, vp, $p, xp, Sp, Tp, Ip, En, er, Zo, Ap, Ob, kn, Cp, Ep, kp, Op, Pp, Pn, Db, Dp, $s, hI;
 var init_ort_bundle_min = __esm({
-  "src/MapleExpTracker.Browser/client/node_modules/onnxruntime-web/dist/ort.bundle.min.mjs"() {
+  "node_modules/onnxruntime-web/dist/ort.bundle.min.mjs"() {
     eo = Object.defineProperty;
     Kf = Object.getOwnPropertyDescriptor;
     jf = Object.getOwnPropertyNames;
@@ -23539,7 +23539,7 @@ ${s}`, c = n.createShaderModule({ code: d, label: e.name });
   }
 });
 
-// src/MapleExpTracker.Browser/client/node_modules/js-yaml/dist/js-yaml.mjs
+// node_modules/js-yaml/dist/js-yaml.mjs
 function getDefaultExportFromCjs(x) {
   return x && x.__esModule && Object.prototype.hasOwnProperty.call(x, "default") ? x["default"] : x;
 }
@@ -26605,7 +26605,7 @@ var {
   safeDump
 } = yaml;
 
-// src/MapleExpTracker.Browser/client/node_modules/@paddleocr/paddleocr-js/dist/index.mjs
+// node_modules/@paddleocr/paddleocr-js/dist/index.mjs
 var import_clipper_lib = __toESM(require_clipper(), 1);
 var import_opencv_js = __toESM(require_opencv(), 1);
 var __defProp2 = Object.defineProperty;
@@ -29027,7 +29027,7 @@ var PaddleOCR = class _PaddleOCR extends OcrPipelineRunner {
   }
 };
 
-// src/MapleExpTracker.Browser/client/tracker.js
+// tracker.js
 var stream;
 var video;
 var overlay;
@@ -29039,6 +29039,7 @@ var busy = false;
 var selecting = null;
 var origin = null;
 var regions = {};
+var regionStorageKey = "explog.regions.v1";
 var templates = [];
 var alertEnabled = false;
 function regionCanvas(rect, factor = 3) {
@@ -29095,12 +29096,12 @@ function drawRegions(temp = null) {
   ctx.clearRect(0, 0, overlay.width, overlay.height);
   const scaleX = overlay.width / video.videoWidth, scaleY = overlay.height / video.videoHeight;
   for (const [kind, rect] of Object.entries(regions)) {
-    ctx.strokeStyle = kind === "panel" ? "#23c38e" : kind === "bar" ? "#ffad33" : "#9277ff";
+    ctx.strokeStyle = kind === "panel" ? "#23c38e" : kind === "bar" ? "#ffad33" : kind === "gold" ? "#d9aa20" : "#9277ff";
     ctx.lineWidth = 2;
     ctx.strokeRect(rect.x * scaleX, rect.y * scaleY, rect.width * scaleX, rect.height * scaleY);
     ctx.font = "bold 14px sans-serif";
     ctx.fillStyle = ctx.strokeStyle;
-    ctx.fillText({ panel: "\u89D2\u8272\u80FD\u529B", bar: "\u5E95\u90E8\u7ECF\u9A8C\u6761", buff: "Buff" }[kind], rect.x * scaleX + 3, Math.max(15, rect.y * scaleY - 5));
+    ctx.fillText({ panel: "\u89D2\u8272\u80FD\u529B", bar: "\u5E95\u90E8\u7ECF\u9A8C\u6761", gold: "\u91D1\u5E01", buff: "Buff" }[kind], rect.x * scaleX + 3, Math.max(15, rect.y * scaleY - 5));
   }
   if (temp) {
     ctx.strokeStyle = "#fff";
@@ -29141,9 +29142,38 @@ function setupSelection() {
       width: Math.round(display.width * video.videoWidth / overlay.width),
       height: Math.round(display.height * video.videoHeight / overlay.height)
     };
+    saveRegions();
     drawRegions();
     dotnet.invokeMethodAsync("OnRegionSelected", kind);
   };
+}
+function saveRegions() {
+  const width = video.videoWidth, height = video.videoHeight;
+  if (!width || !height) return;
+  const normalized = Object.fromEntries(Object.entries(regions).map(([kind, r]) => [kind, { x: r.x / width, y: r.y / height, width: r.width / width, height: r.height / height }]));
+  try {
+    localStorage.setItem(regionStorageKey, JSON.stringify({ aspect: width / height, regions: normalized }));
+  } catch {
+  }
+}
+function restoreRegions() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(regionStorageKey) || "null");
+    if (!saved?.regions || Math.abs(saved.aspect - video.videoWidth / video.videoHeight) > 0.03) return [];
+    for (const kind of ["panel", "bar", "gold", "buff"]) {
+      const r = saved.regions[kind];
+      if (!r || [r.x, r.y, r.width, r.height].some((n) => !Number.isFinite(n)) || r.x < 0 || r.y < 0 || r.width <= 0 || r.height <= 0 || r.x + r.width > 1.01 || r.y + r.height > 1.01) continue;
+      regions[kind] = {
+        x: Math.round(r.x * video.videoWidth),
+        y: Math.round(r.y * video.videoHeight),
+        width: Math.round(r.width * video.videoWidth),
+        height: Math.round(r.height * video.videoHeight)
+      };
+    }
+  } catch {
+  }
+  drawRegions();
+  return Object.keys(regions);
 }
 async function loadTemplates() {
   if (templates.length) return;
@@ -29254,6 +29284,7 @@ async function scan() {
         jobs.push(regionCanvas(scaledRect(panel, 0.27, 0.405, 0.66, 0.075), 4));
       }
     }
+    if (regions.gold) jobs.push(regionCanvas(regions.gold, 3));
     const icon = alertEnabled ? prayerIcon() : null;
     if (icon) jobs.push(...digitCanvases(video, icon));
     const results = await ocr.predict(jobs);
@@ -29266,6 +29297,7 @@ async function scan() {
       panelVisible,
       panelLevelText: panelVisible ? textOf(results[1]) : "",
       panelExperienceText: panelVisible ? textOf(results[2]) : "",
+      goldText: regions.gold ? textOf(results[panelVisible ? 3 : 1]) : "",
       prayerSeconds: seconds,
       readAt: (/* @__PURE__ */ new Date()).toISOString()
     });
@@ -29286,9 +29318,10 @@ async function startCapture(callback) {
   await video.play();
   resizeOverlay();
   setupSelection();
+  const restored = restoreRegions();
   stream.getVideoTracks()[0].addEventListener("ended", () => stopCapture());
   window.addEventListener("resize", resizeOverlay);
-  return { width: video.videoWidth, height: video.videoHeight };
+  return { width: video.videoWidth, height: video.videoHeight, restored };
 }
 async function startRecognition() {
   if (!stream || !regions.bar || !regions.panel) throw new Error("\u8BF7\u5148\u6846\u9009\u89D2\u8272\u80FD\u529B\u548C\u5E95\u90E8\u7ECF\u9A8C\u6761\u3002");
@@ -29298,7 +29331,12 @@ async function startRecognition() {
       lang: "ch",
       ocrVersion: "PP-OCRv5",
       worker: true,
-      ortOptions: { backend: "wasm", numThreads: 1, simd: true, wasmPaths: new URL("js/ort/", document.baseURI).href }
+      ortOptions: {
+        backend: "wasm",
+        numThreads: 1,
+        simd: true,
+        wasmPaths: new URL("js/ort/", document.baseURI).href
+      }
     });
   }
   if (!timer) {
@@ -29321,12 +29359,12 @@ async function openMini() {
   }
   if (!window.documentPictureInPicture?.requestWindow)
     throw new Error("\u5F53\u524D\u6D4F\u89C8\u5668\u4E0D\u652F\u6301\u7F6E\u9876\u8FF7\u4F60\u7A97\u53E3\u3002\u8BF7\u4F7F\u7528\u8F83\u65B0\u7684 Edge \u6216 Chrome\u3002");
-  miniWindow = await window.documentPictureInPicture.requestWindow({ width: 330, height: 370 });
+  miniWindow = await window.documentPictureInPicture.requestWindow({ width: 330, height: 440 });
   const doc = miniWindow.document;
   const style = doc.createElement("style");
   style.textContent = `*{box-sizing:border-box}body{margin:0;padding:15px;background:#eff6fc;color:#1c3047;font:13px system-ui,"Microsoft YaHei",sans-serif}header{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px}h1{font-size:16px;margin:0}small{color:#607b93}.grid{display:grid;grid-template-columns:1fr 1fr;gap:9px}.metric{background:white;border:1px solid #dce7f0;border-radius:9px;padding:10px}.metric label{display:block;color:#6f8294;font-size:11px}.metric strong{display:block;font-size:22px;margin-top:5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.wide{grid-column:span 2}.wide strong{font-size:16px}.progress{height:8px;background:#dbe6ee;border-radius:9px;margin-top:8px;overflow:hidden}.progress div{height:100%;background:#eaa331;width:0}.controls{display:flex;align-items:center;justify-content:space-between;margin-top:13px;gap:8px}button{background:#2789cb;color:white;border:0;border-radius:7px;padding:7px 10px;font:inherit;cursor:pointer}.check{display:flex;align-items:center;gap:4px;font-size:11px;color:#526b80}`;
   doc.head.append(style);
-  doc.body.innerHTML = `<header><h1>\u7ECF\u9A8C\u8BB0\u5F55\u5668 <small id="mini-level">--</small></h1><span id="mini-duration">00:00:00</span></header><div class="grid"><div class="metric"><label>\u5B9E\u65F6\u7ECF\u9A8C / \u5C0F\u65F6</label><strong id="mini-recent">\u91C7\u6837\u4E2D</strong></div><div class="metric"><label>\u5E73\u5747\u7ECF\u9A8C / \u5C0F\u65F6</label><strong id="mini-average">0</strong></div><div class="metric wide"><label>\u5F53\u524D\u7B49\u7EA7\u8FDB\u5EA6 <span id="mini-percent"></span></label><div class="progress"><div id="mini-progress"></div></div></div><div class="metric"><label>\u672C\u6B21\u7ECF\u9A8C\u589E\u957F</label><strong id="mini-gain">0</strong></div><div class="metric"><label>\u8BB0\u5F55\u72B6\u6001</label><strong id="mini-status" style="font-size:15px">\u5F85\u5F00\u59CB</strong></div></div><div class="controls"><label class="check"><input id="mini-alert" type="checkbox">\u795E\u5723\u7948\u7977\u63D0\u9192</label><button id="mini-toggle">\u5F00\u59CB\u8BB0\u5F55</button></div>`;
+  doc.body.innerHTML = `<header><h1>\u7ECF\u9A8C\u8BB0\u5F55\u5668 <small id="mini-level">--</small></h1><span id="mini-duration">00:00:00</span></header><div class="grid"><div class="metric"><label>\u5B9E\u65F6\u7ECF\u9A8C / \u5C0F\u65F6</label><strong id="mini-recent">\u91C7\u6837\u4E2D</strong></div><div class="metric"><label>\u5E73\u5747\u7ECF\u9A8C / \u5C0F\u65F6</label><strong id="mini-average">0</strong></div><div class="metric wide"><label>\u5F53\u524D\u7B49\u7EA7\u8FDB\u5EA6 <span id="mini-percent"></span></label><div class="progress"><div id="mini-progress"></div></div></div><div class="metric"><label>\u672C\u6B21\u7ECF\u9A8C\u589E\u957F</label><strong id="mini-gain">0</strong></div><div class="metric"><label>\u672C\u6B21\u91D1\u5E01\u51C0\u589E\u957F</label><strong id="mini-gold">--</strong></div><div class="metric wide"><label>\u9884\u8BA1\u5347\u7EA7</label><strong id="mini-estimate">\u91C7\u6837\u4E2D</strong></div></div><div class="controls"><label class="check"><input id="mini-alert" type="checkbox">\u795E\u5723\u7948\u7977\u63D0\u9192</label><button id="mini-toggle">\u5F00\u59CB\u8BB0\u5F55</button></div>`;
   doc.getElementById("mini-toggle").onclick = () => dotnet.invokeMethodAsync("OnMiniToggle");
   doc.getElementById("mini-alert").onchange = (e) => dotnet.invokeMethodAsync("OnMiniAlertChanged", e.target.checked);
   miniWindow.addEventListener("pagehide", () => {
@@ -29342,7 +29380,8 @@ function updateMini(data) {
     "mini-recent": data.recent,
     "mini-average": data.average,
     "mini-gain": data.gain,
-    "mini-status": data.running ? "\u8BB0\u5F55\u4E2D" : "\u5F85\u5F00\u59CB",
+    "mini-gold": data.gold,
+    "mini-estimate": data.estimate,
     "mini-percent": data.progress == null ? "--" : `${data.progress.toFixed(2)}%`
   })) doc.getElementById(id2).textContent = text;
   doc.getElementById("mini-progress").style.width = `${Math.max(0, Math.min(100, data.progress || 0))}%`;
