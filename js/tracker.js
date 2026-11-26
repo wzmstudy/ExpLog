@@ -28893,7 +28893,7 @@ function createDefaultWorker() {
     throw new Error("worker mode requires Web Worker support in this environment.");
   }
   return (() => {
-    const _w = new URL("./assets/worker-entry-C9UNuyOJ.js", import.meta.url);
+    const _w = new URL("./assets/worker-entry-C9UNuyOJ-local.js", import.meta.url);
     return new Worker(_w, {
       type: "module"
     });
@@ -29331,6 +29331,8 @@ async function startRecognition() {
       lang: "ch",
       ocrVersion: "PP-OCRv5",
       worker: true,
+      textDetectionModelAsset: { url: new URL("models/PP-OCRv5_mobile_det_onnx_infer.tar", document.baseURI).href },
+      textRecognitionModelAsset: { url: new URL("models/PP-OCRv5_mobile_rec_onnx_infer.tar", document.baseURI).href },
       ortOptions: {
         backend: "wasm",
         numThreads: 1,
