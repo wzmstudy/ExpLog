@@ -29331,6 +29331,8 @@ async function startRecognition() {
       lang: "ch",
       ocrVersion: "PP-OCRv5",
       worker: true,
+      textDetectionModelName: "PP-OCRv5_mobile_det",
+      textRecognitionModelName: "PP-OCRv5_mobile_rec",
       textDetectionModelAsset: { url: new URL("models/PP-OCRv5_mobile_det_onnx_infer.tar", document.baseURI).href },
       textRecognitionModelAsset: { url: new URL("models/PP-OCRv5_mobile_rec_onnx_infer.tar", document.baseURI).href },
       ortOptions: {
